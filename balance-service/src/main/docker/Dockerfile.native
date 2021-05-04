@@ -3,6 +3,8 @@
 #
 # Before building the docker image run:
 #
+#Faz o build de forma nativa
+#
 # mvn package -Pnative -Dquarkus.native.container-build=true
 #
 # Then, build the image with:
